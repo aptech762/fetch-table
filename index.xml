@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <name>Hassan</name>
+        <id>1</id>
+        <class>10th</class>
+        <age>21</age>
+    </student>
+    <student>
+        <name>Khurram</name>
+        <id>2</id>
+        <class>11th</class>
+        <age>21</age>
+    </student>
+    <student>
+        <name>Owais</name>
+        <id>3</id>
+        <class>12th</class>
+        <age>22</age>
+    </student>
+    <student>
+        <name>Abdullah</name>
+        <id>4</id>
+        <class>10th</class>
+        <age>24</age>
+    </student>
+    <student>
+        <name>Irtaza</name>
+        <id>5</id>
+        <class>6th</class>
+        <age>14</age>
+    </student>
+    <student>
+        <name>Raza</name>
+        <id>6</id>
+        <class>9th</class>
+        <age>17</age>
+    </student>
+</students>
